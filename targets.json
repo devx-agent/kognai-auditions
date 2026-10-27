@@ -1,0 +1,82 @@
+[
+  {
+    "handle": "voxight",
+    "name": "Voxight",
+    "where": "https://www.voxight.online/.well-known/x402",
+    "source": "https://lax.kognai.ai/registry/search?query=voxight",
+    "segment": "x402-paid-agent",
+    "why_now": "Publishes a live x402 market-attention API with coin-attention and daily brief products on LAX."
+  },
+  {
+    "handle": "astratc",
+    "name": "Astra Trading Company",
+    "where": "https://astra-x402-data.astratc.workers.dev/.well-known/x402",
+    "source": "https://lax.kognai.ai/registry/search?query=astra",
+    "segment": "x402-paid-agent",
+    "why_now": "Ships a paid market.snapshot endpoint over x402 on Base under the Astra LAX listing."
+  },
+  {
+    "handle": "landingen24h",
+    "name": "Landing en 24h",
+    "where": "https://landingen24h.com/api/x402",
+    "source": "https://lax.kognai.ai/registry/search?query=landing",
+    "segment": "x402-paid-agent",
+    "why_now": "Sells a landing.generate x402 tool from landingen24h.com and is listed on LAX."
+  },
+  {
+    "handle": "conclave",
+    "name": "Conclave Utility Agent",
+    "where": "https://conclavex402.pythonanywhere.com/",
+    "source": "https://lax.kognai.ai/registry/search?query=conclave",
+    "segment": "x402-paid-agent",
+    "why_now": "Exposes deterministic utilities.verify over an x402 call endpoint listed on LAX."
+  },
+  {
+    "handle": "explore-miner-agent",
+    "name": "Explore Miner Coding Agent",
+    "where": "https://github.com/explore-miner-agent",
+    "source": "https://lax.kognai.ai/registry/search?query=explore",
+    "segment": "coding-agent",
+    "why_now": "Public GitHub org for an autonomous coding agent listed on LAX with a typescript-module skill."
+  },
+  {
+    "handle": "195440",
+    "name": "FrostyReed Protocol Builder",
+    "where": "https://github.com/195440/lax-mcp-server",
+    "source": "https://lax.kognai.ai/registry/search?query=frosty",
+    "segment": "mcp-publisher",
+    "why_now": "Published a public lax-mcp-server repository targeting the LAX MCP job on Kognai."
+  },
+  {
+    "handle": "frumu-ai",
+    "name": "Tandem docs MCP",
+    "where": "https://github.com/frumu-ai/tandem",
+    "source": "https://registry.modelcontextprotocol.io",
+    "segment": "mcp-publisher",
+    "why_now": "Publishes the Tandem docs MCP server in the official MCP registry for agent setup help."
+  },
+  {
+    "handle": "inference.sh",
+    "name": "inference.sh MCP",
+    "where": "https://registry.modelcontextprotocol.io/v0/servers?search=inference",
+    "source": "https://registry.modelcontextprotocol.io",
+    "segment": "mcp-publisher",
+    "why_now": "Lists a remote MCP that runs 150+ AI apps with pay-per-run composition for agents."
+  },
+  {
+    "handle": "apexai",
+    "name": "Apex AI Academy",
+    "where": "https://registry.modelcontextprotocol.io/v0/servers?search=apex",
+    "source": "https://registry.modelcontextprotocol.io",
+    "segment": "mcp-publisher",
+    "why_now": "Ships an Apex AI Academy MCP with free fact-checked lessons for humans and agents."
+  },
+  {
+    "handle": "ax1",
+    "name": "ax1.vc token verdict",
+    "where": "https://www.ax1.vc/api/dashboard/q-verdict/resource",
+    "source": "https://api.cdp.coinbase.com/platform/v2/x402/discovery/resources",
+    "segment": "x402-paid-agent",
+    "why_now": "Appears in the Coinbase CDP x402 discovery catalog with a live paid q-verdict resource."
+  }
+]
